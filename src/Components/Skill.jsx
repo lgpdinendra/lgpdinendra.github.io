@@ -1,7 +1,7 @@
 import React from 'react'
 import './Skill.css';
-import front from '../Asset/front.jpg'
-import back from '../Asset/back.jpg'
+import front from '../Asset/f1.jpg'
+import back from '../Asset/b1.jpg'
 import mobile from '../Asset/mobile1.jpg'
 
 const Skill = () => {

@@ -12,11 +12,8 @@ const Intro = () => {
         <span className='introtext'>I'am 
         <span className="introName"> Pawan</span>
         <br/>
-        Web Developer</span>
-        <p className="intropara">As a versatile web developer, I specialize in crafting seamless and 
-        responsive user experiences. With expertise in both frontend and backend technologies,
-         I bring ideas to life by blending creativity with technical proficiency. Whether it's designing captivating 
-        interfaces or building robust server-side functionality, I thrive on delivering solutions that elevate digital experiences to new heights.</p>
+        Full Stack Developer</span>
+        <p className="intropara">As a full stack developer, I offer a comprehensive skill set to bring your digital ideas to life. From crafting intuitive user interfaces that engage your audience to building robust server-side logic that ensures seamless functionality, I provide end-to-end solutions. Whether it's creating dynamic web applications, optimizing database performance, or integrating third-party services, I deliver scalable and efficient solutions tailored to your needs. With my expertise in both front-end and back-end technologies, you can expect a cohesive and high-quality product that exceeds your expectations.</p>
 
         <Link activeClass='active' to='contact' spy={true} smooth={true} offset={-50} duration={500}><button className="btn">
           {/*<img src={btnImg} alt='btn' className='btnImg' />*/}
